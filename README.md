@@ -1,4 +1,4 @@
-# Week-4-Getting-and-Cleaning-Data-Course-Project DannyMutd
+# Week-4-Getting-and-Cleaning-Data-Course-Project 
 The repository contains instructions for analyzing the Human Activity Recognition dataset.
 
 The dataset utilized in this project is the Human Activity Recognition Using Smartphones. The repository comprises three files:
